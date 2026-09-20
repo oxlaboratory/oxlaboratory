@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**oxlaboratory/oxlaboratory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# OXIDE Labs
 
-Here are some ideas to get you started:
+### Independent software. Built differently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![OXIS](https://img.shields.io/badge/OXIS-Open%20Source-8B5CF6?style=for-the-badge)](https://github.com/oxlaboratory/oxis)
+[![GitHub](https://img.shields.io/github/stars/oxlaboratory/oxis?style=for-the-badge&logo=github)](https://github.com/oxlaboratory/oxis)
+[![License](https://img.shields.io/github/license/oxlaboratory/oxis?style=for-the-badge)](https://github.com/oxlaboratory/oxis)
+
+**Tools for developers who want more control over their workspace.**
+
+</div>
+
+---
+
+## ⚡ OXIS
+
+**OXIS is a programmable workspace for building, automating and managing software.**
+
+One application brings together:
+
+- 🧩 Lua extensibility
+- ⚙️ Workflows & automation
+- 📝 Document editing
+- 💻 Integrated terminal
+- 📁 Project management
+- 🔌 Plugin ecosystem
+- 🌐 Browser-rendered interface
+- 🔗 GitHub & GitLab workflows
+- 🛠️ Developer tooling
+
+```text
+Single binary.
+Lua extensible.
+Browser rendered.
+
+Build workflows.
+Automate tasks.
+Edit documents.
+Control your system.
